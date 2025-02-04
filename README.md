@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![awkmj's github stats](https://github-readme-stats.vercel.app/api?username=awkmj&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awkmj&layout=donut)](https://github.com/awkmj/github-readme-stats)
